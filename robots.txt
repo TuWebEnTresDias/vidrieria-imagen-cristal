@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuwebentresdias.github.io/vidrieria-imagen-cristal/sitemap.xml
+Sitemap: https://imagen-cristal.com/sitemap.xml
